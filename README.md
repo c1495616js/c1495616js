@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a JS full stack developer.
+I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 ### Contact me
 
