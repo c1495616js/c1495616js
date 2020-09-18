@@ -5,7 +5,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ### Contact me
 
 - [Github](https://github.com/c1495616js)
-- [Blog](https://blog.c1495616.xyz)
+- [Blog](https://blog.c1495616.online)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c1495616js&show_icons=true&theme=dark)
 
