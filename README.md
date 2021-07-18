@@ -13,9 +13,9 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=c1495616js&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1495616js)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=c1495616js&show_icons=true&theme=dark)
 
 <!--
 **c1495616js/c1495616js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
