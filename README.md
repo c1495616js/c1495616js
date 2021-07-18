@@ -7,6 +7,12 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 - [Github](https://github.com/c1495616js)
 - [Blog](https://blog.c1495616.online)
 
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c1495616js&show_icons=true&theme=dark)
 
 <!--
