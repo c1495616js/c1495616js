@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Refs
+- [Badges](https://github.com/Ileriayo/markdown-badges)
