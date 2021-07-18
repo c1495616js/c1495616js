@@ -13,6 +13,11 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 
+## My Open Source Projects
+
+- [nest-yup](https://github.com/c1495616js/nestjs-yup)
+- [git-me-template](https://github.com/c1495616js/Git-Me-Template)
+- [slack-bot-channel-users-counter](https://github.com/c1495616js/fresh_time_counter)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1495616js)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,3 +40,4 @@ Here are some ideas to get you started:
 
 ### Refs
 - [Badges](https://github.com/Ileriayo/markdown-badges)
+- [Tutorial](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
