@@ -22,6 +22,15 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 - [git-me-template](https://github.com/c1495616js/Git-Me-Template)
 - [slack-bot-channel-users-counter](https://github.com/c1495616js/fresh_time_counter)
 
+## Personal Setting
+
+- [vscode](https://github.com/c1495616js/my-vscode)
+- [.dotfiles](https://github.com/c1495616js/.dotfiles)
+
+## My Learning
+
+- [webpack 5](https://github.com/c1495616js/webpack5-learning)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1495616js)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c1495616js&show_icons=true&theme=dark)
