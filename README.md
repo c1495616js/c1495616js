@@ -19,17 +19,28 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ## My Open Source Projects
 
 - [nest-yup](https://github.com/c1495616js/nestjs-yup)
+- [vscode-plugin+web](https://github.com/c1495616js/vscode-snippet-viewer)
 - [git-me-template](https://github.com/c1495616js/Git-Me-Template)
 - [slack-bot-channel-users-counter](https://github.com/c1495616js/fresh_time_counter)
+- [bcgov-design-system](https://github.com/c1495616js/bcgov-style-system)
+- [react-calendar](https://github.com/c1495616js/react-calendar)
 
 ## Personal Setting
 
 - [vscode](https://github.com/c1495616js/my-vscode)
 - [.dotfiles](https://github.com/c1495616js/.dotfiles)
+- [mac](https://github.com/c1495616js/mac-development)
 
 ## My Learning
 
+- [api-document](https://github.com/c1495616js/api-document)
 - [webpack 5](https://github.com/c1495616js/webpack5-learning)
+- [typeorm](https://github.com/c1495616js/typeorm_practice)
+- [typescript](https://github.com/c1495616js/typescript_practice)
+- [react-query+next.js](https://github.com/c1495616js/react-query-next)
+- [keycloak+nest+next](https://github.com/c1495616js/kc-nest-next)
+- [nginx](https://github.com/c1495616js/nginx_practice)
+- [gitea+caddy](https://github.com/c1495616js/gitea_caddy_docker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1495616js)](https://github.com/anuraghazra/github-readme-stats)
 
