@@ -19,6 +19,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ## My Open Source Projects
 
 - [nest-yup](https://github.com/c1495616js/nestjs-yup)
+- [design-system](https://github.com/c1495616js/design-system-boilerplate)
 - [vscode-plugin+web](https://github.com/c1495616js/vscode-snippet-viewer)
 - [git-me-template](https://github.com/c1495616js/Git-Me-Template)
 - [slack-bot-channel-users-counter](https://github.com/c1495616js/fresh_time_counter)
