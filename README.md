@@ -32,6 +32,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 - [vscode](https://github.com/c1495616js/my-vscode)
 - [.dotfiles](https://github.com/c1495616js/.dotfiles)
 - [mac](https://github.com/c1495616js/mac-development)
+- [eslint-config-jerry](https://github.com/c1495616js/eslint-config-jerry)
 
 ## My Learning
 
