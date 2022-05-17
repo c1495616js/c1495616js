@@ -17,13 +17,20 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 
 ## My Open Source Projects
-- [react-dsm-template](https://github.com/c1495616js/react-dsm-template)
-- [react-typescript-template](https://github.com/c1495616js/react-typescript-template)
+
+### Contribution
+
+- [DefinitelyTypes](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60387)
 - [nest-yup](https://github.com/c1495616js/nestjs-yup)
-- [design-system](https://github.com/c1495616js/design-system-boilerplate)
+
+### Active
+
+- [react-typescript-template](https://github.com/c1495616js/react-typescript-template)
+- [slack-bot-channel-users-counter](https://github.com/c1495616js/fresh_time_counter)
+
+### Idle
 - [vscode-plugin+web](https://github.com/c1495616js/vscode-snippet-viewer)
 - [git-me-template](https://github.com/c1495616js/Git-Me-Template)
-- [slack-bot-channel-users-counter](https://github.com/c1495616js/fresh_time_counter)
 - [bcgov-design-system](https://github.com/c1495616js/bcgov-style-system)
 - [react-calendar](https://github.com/c1495616js/react-calendar)
 
