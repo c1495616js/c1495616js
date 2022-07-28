@@ -59,6 +59,13 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c1495616js&show_icons=true&theme=dark)
 
+## Github Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c1495616js&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c1495616js&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c1495616js&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c1495616js&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c1495616js&theme=solarized_dark)
 <!--
 **c1495616js/c1495616js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
