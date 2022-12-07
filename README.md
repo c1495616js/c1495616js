@@ -8,7 +8,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ### Contact me
 
 - [Github](https://github.com/c1495616js)
-- [Blog](https://jerry.c1495616.online) ([repo](https://github.com/c1495616js/remix-portfolio))
+- [Blog](https://jerry.c1495616.online) ([repo](https://github.com/c1495616js/blog-2022))
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -24,6 +24,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 
 - [DefinitelyTypes](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/60387)
 - [nest-yup](https://github.com/c1495616js/nestjs-yup)
+- [react-json-hook-form](https://github.com/c1495616js/react-json-hook-form)
 - [vscode extension: paste-url-md](https://github.com/c1495616js/paste-url-md)
 - [frontend-library](https://github.com/c1495616js/jerry-fe-library)
   - eslint
