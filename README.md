@@ -8,7 +8,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 ### Contact me
 
 - [Github](https://github.com/c1495616js)
-- [Blog](https://jerry.c1495616.online) ([repo](https://github.com/c1495616js/blog-2022))
+- [Blog](https://www.jerrywang.dev) ([repo](https://github.com/c1495616js/jerry-blog))
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
