@@ -27,12 +27,7 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 - [nest-yup](https://github.com/c1495616js/nestjs-yup)
 - [react-json-hook-form](https://github.com/c1495616js/react-json-hook-form)
 - [vscode extension: paste-url-md](https://github.com/c1495616js/paste-url-md)
-- [frontend-library](https://github.com/c1495616js/jerry-fe-library)
-  - eslint
-  - prettier
-  - stylelint
-  - custom hook library
-  - design system library
+- [design-system](https://github.com/c1495616js/design-system)
 
 ### Active
 
@@ -44,6 +39,12 @@ I'm a JS full stack developer. <img src="https://github.com/TheDudeThatCode/TheD
 - [git-me-template](https://github.com/c1495616js/Git-Me-Template)
 - [bcgov-design-system](https://github.com/c1495616js/bcgov-style-system)
 - [react-calendar](https://github.com/c1495616js/react-calendar)
+- [frontend-library](https://github.com/c1495616js/jerry-fe-library)
+  - eslint
+  - prettier
+  - stylelint
+  - custom hook library
+  - design system library
 
 ## Personal Setting
 
